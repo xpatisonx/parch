@@ -1,5 +1,6 @@
 set(SOURCES
     src/dummy.cpp
+    src/file.cpp
     )
 
 add_library(parchlib ${SOURCES})
